@@ -1,4 +1,5 @@
 <h1 align="center">Hi there, I'm Aayushi 👋</h1>
+<img src="pixelated-portrait.png" width="420" alt="portrait" />
 <h3 align="center">Building things for the web, one commit at a time 🚀</h3>
 
 <p align="center">
@@ -9,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎨 I'm focused on **Frontend Development & Web Design**
+- 🎨 I'm focused on **Frontend Development & Web Design** 
 - 🌱 I'm currently learning **React & JavaScript frameworks**
 - 👯 I'm looking to collaborate on **cool frontend/web projects**
 - 💬 Ask me about **UI, web design, or getting started in frontend dev**
