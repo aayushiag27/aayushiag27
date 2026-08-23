@@ -55,4 +55,4 @@
 
 <p align="center"><i>⭐️ From <a href="https://github.com/aayushiag27">aayushiag27</a></i></p>
 
-
+<img src="pixelated-portrait.png" width="420" alt="portrait" />
