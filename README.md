@@ -1,6 +1,3 @@
-
-
-
 <div align="center">
 
 # 🚀 Project Name
@@ -10,9 +7,9 @@
 ![Header Banner](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 [![Made with Love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)](#)
-[![Stars](https://img.shields.io/github/stars/username/repo?style=social)](#)
-[![Forks](https://img.shields.io/github/forks/username/repo?style=social)](#)
-[![Issues](https://img.shields.io/github/issues/username/repo)](#)
+[![Stars](https://img.shields.io/github/stars/aayushiag27/aayushiag27?style=social)](#)
+[![Forks](https://img.shields.io/github/forks/aayushiag27/aayushiag27?style=social)](#)
+[![Issues](https://img.shields.io/github/issues/aayushiag27/aayushiag27)](#)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](#)
 
 </div>
@@ -54,7 +51,7 @@ A quick, friendly intro to your project. What problem does it solve? Why should 
 
 ```bash
 # Clone the repo
-git clone https://github.com/username/repo.git
+git clone https://github.com/aayushiag27/repo.git
 
 # Move into the project
 cd repo
@@ -93,6 +90,6 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-Made with ☕ + 💻 by **Your Name**
+Made with ☕ + 💻 by **Aayushi**
 
 </div>
