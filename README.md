@@ -57,4 +57,8 @@
 <p align="center"><i>⭐️ From <a href="https://github.com/aayushiag27">aayushiag27</a></i></p>
 
 <img src="pixelated-portrait.png" width="420" alt="portrait" />
-
+<p align="center">
+  <a href="Woman_looking_at_camera_202608242106.mp4">
+    <img src="./assets/aayushi-intro-thumbnail.png" width="800">
+  </a>
+</p>
