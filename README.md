@@ -77,3 +77,10 @@ I build things that sit at the intersection of clean UI and solid logic.
 </p>
 
 <p align="center"><i>Thanks for stopping by! ✨</i></p>
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Isometric Contribution Calendar">
+</p>      
