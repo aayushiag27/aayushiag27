@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=500&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Learning+DSA+%F0%9F%93%9A;Building+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Learning+DSA+%F0%9F%93%9A;Building+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -25,7 +25,7 @@
 ```
 $ cat about.txt
 Hi, I'm Aayushi Agarwal.
-I build things that sit at the intersection of clean UI and solid logic.
+I turn ideas into interfaces — clean UI on the outside, solid logic underneath.
 
 - 💻 Solid in HTML & CSS
 - 🌱 Currently exploring JavaScript
@@ -36,17 +36,14 @@ I build things that sit at the intersection of clean UI and solid logic.
 
 ---
 
-### 🛠️ TOOL BOX
+### 🛠️ Tool Box
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git,github,figma" alt="Skills" />
+</p>
+
+<p align="left">
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-  
 </p>
 
 ---
@@ -56,6 +53,13 @@ I build things that sit at the intersection of clean UI and solid logic.
 - **Journaling App** — a personal project to track thoughts and moods
 - Exploring more JavaScript-powered projects
 - Practicing DSA daily to build strong fundamentals
+
+<!-- 
+  Add a screenshot or GIF of your Journaling App here once you have one, e.g.:
+  <p align="center">
+    <img src="./assets/journaling-app-preview.png" width="600" alt="Journaling App preview" />
+  </p>
+-->
 
 ---
 
@@ -72,15 +76,16 @@ I build things that sit at the intersection of clean UI and solid logic.
 
 ---
 
+### 📅 GitHub Activity
+
+<p align="center">
+  <img src="./metrics.svg" alt="GitHub Isometric Contribution Calendar">
+</p>
+
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aayushiag27&color=2ECC71&style=for-the-badge" alt="Profile Views" />
 </p>
 
 <p align="center"><i>Thanks for stopping by! ✨</i></p>
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="./metrics.svg" alt="GitHub Isometric Contribution Calendar">
-</p>      
