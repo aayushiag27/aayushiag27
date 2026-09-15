@@ -66,7 +66,7 @@ I turn ideas into interfaces — clean UI on the outside, solid logic underneath
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aayushiag27&show_icons=true&theme=radical&hide_border=true" alt="Aayushi's GitHub Stats" height="165"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=aayushiag27&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Aayushi's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushiag27&theme=radical&hide_border=true" alt="Aayushi's GitHub Streak" height="165"/>
 </p>
 
