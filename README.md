@@ -7,11 +7,11 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/aayushiag27/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
   <a href="https://www.codechef.com/users/aayushiag27" target="_blank">
-  <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+  </a>
   <a href="mailto:aaayushi373@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
@@ -28,16 +28,15 @@
 
 ### 🔗 ~/whoami
 
-```
+```text
 $ cat about.txt
 Hi, I'm Aayushi Agarwal.
 I turn ideas into interfaces — clean UI on the outside, solid logic underneath.
 
-- 💻 Solid in HTML & CSS
-- 🌱 Currently exploring JavaScript
+- 💻 HTML, CSS & JavaScript
 - 📚 Learning DSA — sharpening problem-solving skills
-- 🧠 Recently built a Journaling App
-- 🚀 Working on more projects, one commit at a time
+- 🚀 Building projects and learning through hands-on development
+- 🌱 Exploring modern frontend development
 ```
 
 ---
@@ -56,23 +55,16 @@ I turn ideas into interfaces — clean UI on the outside, solid logic underneath
 
 ### 🌱 Currently Building
 
-- **Journaling App** — a personal project to track thoughts and moods
 - Exploring more JavaScript-powered projects
-- Practicing DSA daily to build strong fundamentals
-
-<!-- 
-  Add a screenshot or GIF of your Journaling App here once you have one, e.g.:
-  <p align="center">
-    <img src="./assets/journaling-app-preview.png" width="600" alt="Journaling App preview" />
-  </p>
--->
+- Practicing DSA to build strong fundamentals
+- Learning and experimenting with modern frontend development
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=aayushiag27&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Aayushi's GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aayushiag27&show_icons=true&theme=radical&hide_border=true&cache_seconds=1800" alt="Aayushi's GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aayushiag27&theme=radical&hide_border=true" alt="Aayushi's GitHub Streak" height="165"/>
 </p>
 
