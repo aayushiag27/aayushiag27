@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Frontend+Developer;HTML+%7C+CSS+%7C+JavaScript;Learning+DSA+%F0%9F%93%9A;Building+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI%2FUX+Designer;HTML+%7C+CSS+%7C+JavaScript;Learning+DSA+%F0%9F%93%9A;Building+cool+projects+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -34,6 +34,7 @@ Hi, I'm Aayushi Agarwal.
 I turn ideas into interfaces — clean UI on the outside, solid logic underneath.
 
 - 💻 HTML, CSS & JavaScript
+- 🎨 UI/UX Design with Figma
 - 📚 Learning DSA — sharpening problem-solving skills
 - 🚀 Building projects and learning through hands-on development
 - 🌱 Exploring modern frontend development
@@ -55,9 +56,10 @@ I turn ideas into interfaces — clean UI on the outside, solid logic underneath
 
 ### 🌱 Currently Building
 
-- Exploring more JavaScript-powered projects
-- Practicing DSA to build strong fundamentals
-- Learning and experimenting with modern frontend development
+- Building interactive frontend projects with JavaScript
+- Designing clean and user-friendly interfaces
+- Practicing DSA to strengthen problem-solving skills
+- Exploring modern frontend development
 
 ---
 
