@@ -88,4 +88,4 @@ I turn ideas into interfaces — clean UI on the outside, solid logic underneath
   <img src="https://komarev.com/ghpvc/?username=aayushiag27&color=2ECC71&style=for-the-badge" alt="Profile Views" />
 </p>
 
-<p align="center"><i>Thanks for stopping by! ✨</i></p>
+<p align="center"><i>Thanks for stopping by! ✨</i></p># README.md
